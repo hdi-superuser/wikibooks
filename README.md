@@ -3,7 +3,7 @@
 
 ---
 > #### __Topic PDF version__
-> - [ ] __Basic Gametheory for competitive programing__
-> - [ ] __Basic Geometry for competitive programing__
-> - [ ] __Basic Math for competitive programing__
-> - [ ] __Matching - Flow for competitive programing__
+> - [x] __Basic Gametheory for competitive programing__
+> - [x] __Basic Geometry for competitive programing__
+> - [x] __Basic Math for competitive programing__
+> - [x] __Matching - Flow for competitive programing__
